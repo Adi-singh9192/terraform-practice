@@ -1,0 +1,23 @@
+# Terraform working directory
+.terraform/
+
+# Terraform state
+*.tfstate
+*.tfstate.*
+
+# Terraform error state
+errored.tfstate
+
+# Terraform variables
+*.tfvars
+*.tfvars.json
+
+# Private keys
+*.pem
+*.key
+*.pub
+
+# OS files
+.DS_Store
+Thumbs.db
+terra-key-ec2
