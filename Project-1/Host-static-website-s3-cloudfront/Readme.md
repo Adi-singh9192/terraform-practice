@@ -6,9 +6,7 @@ This mini project demonstrates how to deploy a static website on AWS using Terra
 
 ## 🏗️ Architecture
 
-```
-Internet → CloudFront Distribution → S3 Bucket (Static Website)
-```
+![AWS S3 CloudFront Architecture](Project-1.png)
 
 ### Components:
 - **S3 Bucket**: Hosts static website files (HTML, CSS, JS)
